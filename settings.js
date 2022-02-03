@@ -18,9 +18,9 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "WIWIN SHOP"
+global.botname = "𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️"
 global.ownername= "BOT WHATSAPP🐼"
-global.myweb ="https://api-alphabot.herokuapp.com/"
+global.myweb ="https://chat.whatsapp.com/JNOgjoDolw2BEEBPWNbZaI"
 global.youtube = "YOUTUBE MASIH DALAM PERBAIKAN🏃"
 global.github = "CHAT OWNER🤧"
 global.ownernomer = "9035641619"
@@ -28,7 +28,7 @@ global.ownernomerr = "+19035641619"
 global.thumbnail = "./image/lolo.jpg"
 global.donasi = "./image/donasi_200.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282230397507","6282230397507","6282230397507"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© WIWIN SHOP🛍️' //sticker wm
 global.author = 'Di Buat Oleh BOT WHATSAPP🐼' //sticker wm
 global.sessionName = 'session'

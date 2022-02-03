@@ -254,14 +254,14 @@ exports.welcome = () =>{
 ├ 𝖠𝗌𝗄𝗈𝗍 :
 ╰❒ 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️
 }
-exports.leave = () =>{
-	return`Yah kok out😣
+ image/stexports.leave = () =>{
+	return`*YAHH KOK OUT🤧*
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-SEWA BOT CHAT OWNER😁
+CHAT OWNER🥴
 `
 }
 exports.tos = (ownernomer) => {
@@ -350,6 +350,13 @@ exports.group = (prefix) =>{
 ╰❒ ${prefix}hidetag [text]
 `}
 
+exports.anime = (prefix) =>{
+	return`╭─❒ 「 Anime 」 
+├ ${prefix}quotesanime
+├ ${prefix}anime [query]
+├ ${prefix}manga [query]
+╰❒ ${prefix}character [query]
+`}
 
 exports.tag = (prefix) =>{
 	return`╭─❒ 「 Tag 」 
@@ -387,6 +394,43 @@ exports.converter = (prefix) =>{
 ╰❒${prefix}toimg [reply sticker]
 `}
 
+exports.effect = (prefix) =>{
+	return`╭─❒ 「 Image Effect 」 
+├ ${prefix}wanted [reply image/stiker]
+├ ${prefix}utatoo [reply image/stiker]
+├ ${prefix}unsharpen [reply image/stiker]
+├ ${prefix}thanos [reply image/stiker]
+├ ${prefix}sniper [reply image/stiker]
+├ ${prefix}sharpen [reply image/stiker]
+├ ${prefix}sepia [reply image/stiker]
+├ ${prefix}scary [reply image/stiker]
+├ ${prefix}rip [reply image/stiker]
+├ ${prefix}redple [reply image/stiker]
+├ ${prefix}rejected [reply image/stiker]
+├ ${prefix}posterize [reply image/stiker]
+├ ${prefix}ps4 [reply image/stiker]
+├ ${prefix}pixelize [replyiker]
+├ ${prefix}missionpassed [reply image/stiker]
+├ ${prefix}moustache [reply image/stiker]
+├ ${prefix}lookwhatkarenhave [reply image/stiker]
+├ ${prefix}jail [reply image/stiker]
+├ ${prefix}invert [reply image/stiker]
+├ ${prefix}instagram [reply image/stiker]
+├ ${prefix}greyscale [reply image/stiker]
+├ ${prefix}glitch [reply image/stiker]
+├ ${prefix}gay [reply image/stiker]
+├ ${prefix}frame [reply image/stiker]
+├ ${prefix}fire [reply image/stiker]
+├ ${prefix}distort [reply image/stiker]
+├ ${prefix}dictator [reply image/stiker]
+├ ${prefix}deepfry [reply image/stiker]
+├ ${prefix}ddungeon [reply image/stiker]
+├ ${prefix}circle [reply image/stiker]
+├ ${prefix}challenger [reply image/stiker]
+├ ${prefix}burn [reply image/stiker]
+├ ${prefix}brazzers [reply image/stiker]
+╰❒ ${prefix}beautiful [reply image/stiker]
+`}
 
 //
 exports.effect2 = (prefix) =>{
@@ -439,6 +483,125 @@ return`╭─❒ 「 Download 」
 ├ ${prefix}gitclone [link repo]
 ├ ${prefix}mediafire [link]
 ╰❒ ${prefix}twitter link
+`
+}
+
+exports.ranime = (prefix) =>{
+	return`╭─❒ 「 Random Anime 」
+├ ${prefix}loli
+├ ${prefix}neko
+├ ${prefix}waifu
+├ ${prefix}shinobu
+├ ${prefix}megumin
+├ ${prefix}bully
+├ ${prefix}cuddle
+├ ${prefix}cry
+├ ${prefix}hug
+├ ${prefix}awoo
+├ ${prefix}kiss
+├ ${prefix}lick
+├ ${prefix}pat
+├ ${prefix}smug
+├ ${prefix}bonk
+├ ${prefix}yeet
+├ ${prefix}blush
+├ ${prefix}smile
+├ ${prefix}wave
+├ ${prefix}highfive
+├ ${prefix}handhold
+├ ${prefix}nom
+├ ${prefix}bite
+├ ${prefix}glomp
+├ ${prefix}slap
+├ ${prefix}kill
+├ ${prefix}happy
+├ ${prefix}wink
+├ ${prefix}poke
+├ ${prefix}dance
+╰❒ ${prefix}cringe
+`
+}
+
+exports.nsfw = (prefix) =>{
+	return`╭─❒ 「 Nsfw & Sfw 」
+├ ${prefix}ahegao
+├ ${prefix}ass
+├ ${prefix}bdsm
+├ ${prefix}blowjob
+├ ${prefix}cuckold
+├ ${prefix}cum
+├ ${prefix}ero
+├ ${prefix}femdom
+├ ${prefix}foot
+├ ${prefix}gangbang
+├ ${prefix}glasses
+├ ${prefix}jahy
+├ ${prefix}manga
+├ ${prefix}masturbation
+├ ${prefix}neko
+├ ${prefix}orgy
+├ ${prefix}panties
+├ ${prefix}pussy
+├ ${prefix}tentacles
+├ ${prefix}thighs
+├ ${prefix}yuri
+├ ${prefix}feet
+├ ${prefix}lewdkemo
+├ ${prefix}woof
+├ ${prefix}gasm
+├ ${prefix}solo
+├ ${prefix}8ball
+├ ${prefix}goose
+├ ${prefix}avatar
+├ ${prefix}hololewd
+├ ${prefix}gecg
+├ ${prefix}holo
+├ ${prefix}fox_girl
+├ ${prefix}tits
+├ ${prefix}eroyuri
+├ ${prefix}holoyero
+├ ${prefix}lizard
+├ ${prefix}keta
+├ ${prefix}eron
+├ ${prefix}erok
+├ ${prefix}kemonomimi
+├ ${prefix}cum_jpg
+├ ${prefix}nsfw_avatar
+├ ${prefix}erofeet
+├ ${prefix}meow
+├ ${prefix}wallpaper
+├ ${prefix}waifu
+├ ${prefix}trap
+├ ${prefix}lewd
+├ ${prefix}pussy_jpg
+├ ${prefix}futanari
+├ ${prefix}lewdk
+├ ${prefix}solog
+├ ${prefix}smug
+├ ${prefix}cum
+├ ${prefix}slap
+├ ${prefix}les
+├ ${prefix}erokemo
+├ ${prefix}bj
+├ ${prefix}pwankg
+├ ${prefix}pat
+├ ${prefix}poke
+├ ${prefix}feed
+├ ${prefix}nsfw_neko_gif
+├ ${prefix}pussy
+├ ${prefix}feetg
+├ ${prefix}baka
+├ ${prefix}hug
+├ ${prefix}kiss
+├ ${prefix}tickle
+├ ${prefix}spank
+├ ${prefix}kuni
+├ ${prefix}classic
+├ ${prefix}boobs
+├ ${prefix}anal
+├ ${prefix}ngif
+├ ${prefix}cuddle
+╰❒ ${prefix}zettai
 `
 }
 
@@ -643,7 +806,8 @@ return`╭─❒ 「 Others 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ Dhen Bagus
+├ ●⃝Dhen Bagusツ
+├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
 `

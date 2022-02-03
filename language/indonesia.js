@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -283,119 +283,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}mediafire [link]
 ╰❒ ${prefix}twitter link
 
-
-╭─❒ 「 Random Anime 」
-├ ${prefix}loli
-├ ${prefix}neko
-├ ${prefix}waifu
-├ ${prefix}shinobu
-├ ${prefix}megumin
-├ ${prefix}bully
-├ ${prefix}cuddle
-├ ${prefix}cry
-├ ${prefix}hug
-├ ${prefix}awoo
-├ ${prefix}kiss
-├ ${prefix}lick
-├ ${prefix}pat
-├ ${prefix}smug
-├ ${prefix}bonk
-├ ${prefix}yeet
-├ ${prefix}blush
-├ ${prefix}smile
-├ ${prefix}wave
-├ ${prefix}highfive
-├ ${prefix}handhold
-├ ${prefix}nom
-├ ${prefix}bite
-├ ${prefix}glomp
-├ ${prefix}slap
-├ ${prefix}kill
-├ ${prefix}happy
-├ ${prefix}wink
-├ ${prefix}poke
-├ ${prefix}dance
-╰❒ ${prefix}cringe
-
-╭─❒ 「 Nsfw & Sfw 」
-├ ${prefix}ahegao
-├ ${prefix}ass
-├ ${prefix}bdsm
-├ ${prefix}blowjob
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}ero
-├ ${prefix}femdom
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}manga
-├ ${prefix}masturbation
-├ ${prefix}neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}pussy
-├ ${prefix}tentacles
-├ ${prefix}thighs
-├ ${prefix}yuri
-├ ${prefix}feet
-├ ${prefix}lewdkemo
-├ ${prefix}woof
-├ ${prefix}gasm
-├ ${prefix}solo
-├ ${prefix}8ball
-├ ${prefix}goose
-├ ${prefix}avatar
-├ ${prefix}hololewd
-├ ${prefix}gecg
-├ ${prefix}holo
-├ ${prefix}fox_girl
-├ ${prefix}tits
-├ ${prefix}eroyuri
-├ ${prefix}holoyero
-├ ${prefix}lizard
-├ ${prefix}keta
-├ ${prefix}eron
-├ ${prefix}erok
-├ ${prefix}kemonomimi
-├ ${prefix}cum_jpg
-├ ${prefix}nsfw_avatar
-├ ${prefix}erofeet
-├ ${prefix}meow
-├ ${prefix}wallpaper
-├ ${prefix}waifu
-├ ${prefix}trap
-├ ${prefix}lewd
-├ ${prefix}pussy_jpg
-├ ${prefix}futanari
-├ ${prefix}lewdk
-├ ${prefix}solog
-├ ${prefix}smug
-├ ${prefix}cum
-├ ${prefix}slap
-├ ${prefix}les
-├ ${prefix}erokemo
-├ ${prefix}bj
-├ ${prefix}pwankg
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}feed
-├ ${prefix}nsfw_neko_gif
-├ ${prefix}pussy
-├ ${prefix}feetg
-├ ${prefix}baka
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}tickle
-├ ${prefix}spank
-├ ${prefix}kuni
-├ ${prefix}classic
-├ ${prefix}boobs
-├ ${prefix}anal
-├ ${prefix}ngif
-├ ${prefix}cuddle
-╰❒ ${prefix}zettai
 
 ╭─❒ 「 Textpro Menu 」
 ├ ${prefix}halloween2 text|text2
@@ -590,14 +477,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ DhenBagus
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
@@ -617,27 +497,12 @@ Sanksi: *❎ SOFT BLOCK*
 3. Jangan mengeksploitasi bot.😖
 Sanksi: *PERMANENT BLOCK*
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
-
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
-
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
-
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
-
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️
 😖🙏
 `
 }
@@ -648,17 +513,16 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+╰❒ 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣 kak >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+CHAT OWNER🐼
 `
 }
 exports.tos = (ownernomer) => {
@@ -1203,14 +1067,7 @@ return`╭─❒ 「 Others 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ DhenBagus
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support

@@ -255,7 +255,7 @@ exports.welcome = () =>{
 ╰❒ 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️
 }
 exports.leave = () =>{
-	return`Yah kok out 😣
+	return`Yah kok out😣
 Goodbye`
 }
 exports.source = () =>{

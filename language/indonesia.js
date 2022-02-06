@@ -516,7 +516,7 @@ exports.welcome = () =>{
 ╰❒ 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] ~`
 }
 exports.leave = () =>{
-	return`LIHATLAH KUTU LONCAT TELAH KELUAR🗿
+	return`*KUTU LONCAT TELAH KELUAR🗿, Kalau balik lagi jangan lupa bawa GORENGAN😂*
 Goodbye`
 }
 exports.source = () =>{

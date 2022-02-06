@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻]"
 global.ownername= "𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻]"
-global.myweb ="https://chat.whatsapp.com/JNOgjoDolw2BEEBPWNbZaI"
+global.myweb ="https://chat.whatsapp.com/FfVZFz5kb761pp4Um7vO2M"
 global.youtube = "YOUTUBE MASIH DALAM PERBAIKAN🏃"
 global.github = "CHAT OWNER🤧"
 global.ownernomer = "6282230397507"

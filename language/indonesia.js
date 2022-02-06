@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️, bot ini adalah Beta Multi-Device Whatsapp. 
+saya 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻], bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ :*
+*📚 List-Menu 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -500,9 +500,9 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻]
 😖🙏
 `
 }
@@ -513,10 +513,10 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝑩𝑶𝑻 𝑾𝑰𝑾𝑰𝑵 𝑺𝑯𝑶𝑷🛍️ ~`
+╰❒ 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 kak >.<
+	return`LIHATLAH KUTU LONCAT TELAH KELUAR🗿
 Goodbye`
 }
 exports.source = () =>{

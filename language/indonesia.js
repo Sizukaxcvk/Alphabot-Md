@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya *𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻]*, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -540,14 +540,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}memegen [text|text]
 ╰❒
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
+├ DhenBagus
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
@@ -568,27 +561,12 @@ Sanksi: *❎ SOFT BLOCK*
 3. Jangan mengeksploitasi bot.😖
 Sanksi: *PERMANENT BLOCK*
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
-
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
-
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
-
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
-
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻] di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 𝑫𝑬𝑾𝑬 𝑱𝑩࿈᭄ [𝑩𝑶𝑻]
 😖🙏
 `
 }
@@ -602,14 +580,13 @@ exports.welcome = () =>{
 ╰ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`*KUTU LONCAT TELAH KELUAR GRUB🗿, kalau balik lagi jangan lupa bawa GORENGAN buat semua member yak😂*
 Goodbye`
 }
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+CHAT OWNER🐼
 `
 }
 exports.tos = (ownernomer) => {
@@ -1089,14 +1066,7 @@ return`*Others*
 
 exports.tqto = () =>{
 	return`*Thanks To*
-• My God
-• My Parents
-• Fatih A.
-• Ferdi
-• DikaArdnt
-• Mhankbarbar
-• Nurutomo
-• Rashid
+• DhenBagus
 • ZeeoneOfc
 • Penyedia Module
 • And All Support
